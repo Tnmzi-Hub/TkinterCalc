@@ -4,12 +4,6 @@ A basic calculator application built using Python's `tkinter` module. This proje
 
 ---
 
-## 📸 Demo
-
-![Calculator GUI](https://github.com/your-username/your-repo-name/assets/demo.gif) <!-- Replace with your screenshot or demo GIF -->
-
----
-
 ## 🚀 Features
 
 - Clean and intuitive GUI using `tkinter`
